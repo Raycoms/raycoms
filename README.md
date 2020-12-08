@@ -1,4 +1,4 @@
-### I reproduced it, I found it, I fixed it 👋
+### I reproduced it, I found it, I fixed it
 
 <!--
 **Raycoms/raycoms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
